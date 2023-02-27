@@ -2,7 +2,7 @@
 
 
 :root{
-    --gradient: linear-gradient(94.47deg, #5ceef9 30.46%, #71bff3 99.9%);
+    --gradient: linear-gradient(94.47deg, #52f2fd 30.46%, #86ccfa 99.9%);
 }
 
 body{
@@ -12,7 +12,7 @@ body{
     text-align: center;
     display: grid;
     justify-content: center;
-    background: url(https://cdn.discordapp.com/attachments/628466440453750784/1079761392321712169/00001.png) no-repeat center center fixed; 
+    background: url(https://cdn.discordapp.com/attachments/628466440453750784/1079772123268132994/00001.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
